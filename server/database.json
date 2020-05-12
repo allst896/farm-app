@@ -1,0 +1,1 @@
+{"animals": [{"AnimalId": 1,"Badge": "8","AnimalType": 2,"DOB":"01/01/2008","SexType": 1,"DamId": 0,"SireId": 0},{"AnimalId": 2,"Badge": "Bully","DOB":"01/01/2008","SexType": 2,"DamId": 0,"SireId": 0},{"AnimalId": 3,"Badge": "1213","AnimalType": 2,"DOB":"11/24/2012","SexType": 1,"DamId": 1,"SireId": 2,"Alias": "Fanci","LocationId": 1}]}
